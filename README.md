@@ -1,4 +1,4 @@
-![image](https://thumbs.gfycat.com/EthicalWhirlwindElephant-max-1mb.gif)
+![image](https://media3.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif?cid=ecf05e4731079e3au96h46btpqhnhq7wmdm4yduy8uqfb8ur&rid=giphy.gif&ct=g)
 
 <!--
 **mbrajk/mbrajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
