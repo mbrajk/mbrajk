@@ -2,6 +2,8 @@
 
 **Software Engineer** passionate about building practical tools and exploring creative technologies
 
+🌟 **8+ years** of experience spanning **financial applications**, **API integrations**, and **creative coding**
+
 [![Website](https://img.shields.io/badge/mike.brajkovich.me-4285f4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mike.brajkovich.me)
 [![GitHub followers](https://img.shields.io/github/followers/mbrajk?style=for-the-badge&logo=github)](https://github.com/mbrajk)
 
@@ -11,13 +13,15 @@
 A powerful console application for viewing and manipulating YNAB budgets. Perfect for power users who want command-line access to their financial data.
 - **Tech Stack:** C#, YNAB API
 - **Features:** Budget analysis, transaction management, CLI interface
-- **Status:** Actively maintained with 35+ open issues for enhancements
+- **Stats:** 2 stars, actively maintained with 35+ enhancement requests
+- **Impact:** Streamlines financial management for command-line enthusiasts
 
 ### 🎨 [Design Patterns Collection](https://github.com/mbrajk/design-patterns)
 Comprehensive collection of design pattern implementations with before/after refactoring examples. A practical resource for clean code practices.
 - **Tech Stack:** C#
 - **Features:** Real-world examples, refactoring demonstrations
-- **Impact:** Educational resource for software engineering best practices
+- **Stats:** 3 stars, MIT licensed
+- **Impact:** Educational resource helping developers master software design patterns
 
 ### 🔍 [Document Indexer](https://github.com/mbrajk/document-indexer)
 Experimental project exploring document searching through intelligent pre-processing techniques.
@@ -36,6 +40,12 @@ Creative coding project featuring algorithmic music compositions using Strudel.c
 - **Tech Stack:** JavaScript
 - **Focus:** Live coding, algorithmic composition, creative expression
 
+### 🎄 Advent of Code Solutions
+Consistent participant in Advent of Code challenges, solving algorithmic puzzles with clean, efficient code.
+- **[2024 Solutions](https://github.com/mbrajk/aoc2024):** Latest challenge implementations
+- **[2023 Solutions](https://github.com/mbrajk/aoc2023):** Previous year's puzzle solutions
+- **Focus:** Algorithm design, problem-solving, code optimization
+
 ## 🛠️ Technical Skills
 
 **Languages:** C#, Java, JavaScript, HTML/CSS  
@@ -45,7 +55,13 @@ Creative coding project featuring algorithmic music compositions using Strudel.c
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![mbrajk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbrajk&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrajk&layout=compact&theme=default)
+
+</div>
 
 ## 🎯 Currently Working On
 
